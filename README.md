@@ -1,12 +1,12 @@
-<!-- SUPER PREMIUM README -->
+<!-- ULTRA PREMIUM README 2.0 -->
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:5f7b8f,100:8ab6d6&height=280&section=header&text=Ahmed%20Elminshawy&fontSize=54&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:5f7b8f,100:8ab6d6&height=300&section=header&text=🚀+Ahmed+Elminshawy+🌍&fontSize=56&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAB&size=28&center=true&vCenter=true&width=900&lines=🚀+Frontend+Engineer+|+React.js+%26+Next.js;Building+High-Performance+ERP+%7C+POS+%7C+LMS;Multilingual+UI+%26+Payment+Integration;Page+Load-30%25+|+Mobile+Engagement+%2B60%25" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAB&size=30&center=true&vCenter=true&width=900&lines=Frontend+Engineer+%7C+React.js+%26+Next.js;Building+High-Performance+ERP+%7C+POS+%7C+LMS;Multilingual+UI+%26+Payment+Integration;Page+Load-30%25+%7C+Mobile+Engagement+%2B60%25" />
 </p>
 
 <p align="center">
@@ -19,29 +19,30 @@
 ---
 
 # 👨‍💻 About Me
+<p align="center">
+<img src="https://img.shields.io/badge/Egypt-Remote%20Friendly-ff69b4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-4b0082?style=for-the-badge" />
+</p>
 
-🚀 Middle Frontend Engineer with **2.5+ years of proven experience** building **scalable, high-performance enterprise platforms** using **React.js & Next.js**.  
+🚀 **Middle Frontend Engineer** building **scalable, high-performance enterprise platforms** with **React.js & Next.js**  
 
 🔹 **Specialized in:**  
 - ERP Systems & Financial Platforms  
-- POS Systems & Inventory Management  
+- POS & Inventory Management Systems  
 - LMS & E-learning Dashboards  
 - E-commerce Engines  
 - Multilingual Enterprise Applications  
-- Payment Gateway Integrations (Stripe, Paymob, PayPal, Banque Misr)  
+- Payment Integrations (Stripe, Paymob, PayPal, Banque Misr)  
 
 📈 **Key Achievements:**  
-- Reduced production **page load time by 30%**  
-- Increased **mobile engagement by 60%**  
-- Delivered **high-performance dashboards** for enterprises  
-- Integrated **multiple payment gateways** in live products  
-
-🌍 Based in Egypt — Available for **remote & international opportunities**  
+- **Page Load Reduced:** 30% faster  
+- **Mobile Engagement Increased:** +60%  
+- Delivered **enterprise-grade dashboards**  
+- Integrated **multi-gateway payment systems**  
 
 ---
 
 # 🛠 Tech Stack
-
 ### Core
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
@@ -65,67 +66,57 @@
 ![i18next](https://img.shields.io/badge/i18next-black?style=for-the-badge)
 
 ### Advanced
-GSAP • Framer Motion • Three.js • SEO Optimization • Excel & PDF Export Systems  
+GSAP • Framer Motion • Three.js • SEO Optimization • Excel & PDF Export  
 
 ---
 
 # 🏢 Experience
-
-### Frontend Developer — Branmarks
+### Frontend Developer — Branmarks  
 📅 Jun 2023 — Mar 2025  
-• Led full-stack POS & ERP development for enterprise clients  
-• Optimized Next.js & React performance — **Page load time reduced by 30%**  
-• Designed **scalable, maintainable front-end architecture**  
+• Led POS & ERP development for enterprise clients  
+• Optimized performance — **Page load -30%**  
+• Scalable, maintainable front-end architecture  
 
----
-
-### Frontend Developer (Freelance) — Nosoqq
+### Frontend Developer (Freelance) — Nosoqq  
 📅 Nov 2023 — Jan 2025  
-• Delivered **multi-national E-commerce platforms**  
-• Boosted **mobile engagement by 60%** through performance optimization & responsive design  
-• Integrated **multi-currency and multilingual systems**  
+• Delivered multi-national E-commerce platforms  
+• Boosted **mobile engagement +60%**  
+• Integrated **multilingual & multi-currency systems**  
 
 ---
 
 # 🚀 Featured Projects
-
 ### 🌍 MIED Platform
 ✔ Multilingual Enterprise Architecture  
-✔ Subscription Packages & Payment Integrations  
-✔ SEO Optimized & PDF Reporting  
-✔ High-Performance Dashboards  
+✔ Payment Integration & PDF Reporting  
+✔ SEO Optimized  
 🔗 [miedeg.com](https://miedeg.com/)
 
 ### ✈ Mizzuu Travel Platform
-✔ Real-time booking system for Flights / Hotels / Tours / Buses  
-✔ Dynamic filtering & interactive UI  
-✔ Multilingual & cross-platform  
+✔ Real-time booking (Flights/Hotels/Tours/Buses)  
+✔ Dynamic filtering & multilingual UI  
 🔗 [matroshka-travel.com](https://matroshka-travel.com/)
 
 ### 🛒 M&R Elite Store
-✔ Advanced cart logic & promotions  
+✔ Complex cart & promotions  
 ✔ Payment gateway integration  
-✔ Multilingual system & GSAP animations  
-✔ Optimized for high traffic & fast load  
+✔ Multilingual + GSAP animations  
 🔗 [mr-elite.com](https://www.mr-elite.com/)
 
 ### 📊 Gharam Financial ERP
 ✔ Offline-first architecture  
 ✔ Attendance & inventory tracking  
-✔ Large-scale tables optimization  
-✔ Reporting & analytics dashboards  
+✔ Reporting dashboards & analytics  
 
 ### 🎓 Advanced LMS Dashboard
-✔ Course scheduling & management  
-✔ Exams & teacher management  
+✔ Course & Exams Management  
 ✔ Drag-drop calendar system  
-✔ ApexCharts & FullCalendar for analytics  
+✔ ApexCharts & FullCalendar  
 
 ### 🧾 Smart POS System
-✔ Real-time inventory management  
+✔ Real-time inventory  
 ✔ Keyboard-driven workflow  
 ✔ CSV / XLSX export  
-✔ High-performance tables & reporting  
 
 ---
 
