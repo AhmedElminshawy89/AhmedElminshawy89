@@ -171,17 +171,8 @@ FullCalendar
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="160em"
-src="https://github-readme-stats.vercel.app/api?username=AhmedElminshawy89&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="160em"
-src="https://streak-stats.demolab.com?user=AhmedElminshawy89&theme=tokyonight&hide_border=true"/>
-
-</p>
+# 📈 Key Achievements
+<p align="center"> <img height="160em" src="https://img.shields.io/badge/Page_Load_-30%25-brightgreen?style=for-the-badge&logo=performance"/> <img height="160em" src="https://img.shields.io/badge/Mobile_Engagement_+60%25-blue?style=for-the-badge&logo=mobileapp"/> <img height="160em" src="https://img.shields.io/badge/Payment_Gateways-Integrated-orange?style=for-the-badge&logo=paypal"/> <img height="160em" src="https://img.shields.io/badge/Multilingual_Apps-Supported-purple?style=for-the-badge&logo=translation"/> <img height="160em" src="https://img.shields.io/badge/Enterprise_Systems-Delivered-red?style=for-the-badge&logo=erp"/> <img height="160em" src="https://img.shields.io/badge/Optimized_Dashboards-Performance-9cf?style=for-the-badge&logo=chart"/> </p>
 
 
 ---
