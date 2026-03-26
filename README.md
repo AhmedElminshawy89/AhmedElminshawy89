@@ -173,37 +173,14 @@ FullCalendar
 
 # 📈 Key Achievements
 
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
-  <div style="background:#1abc9c; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
-    <h3>Page Load</h3>
-    <p style="font-size:24px; font-weight:bold;">-30%</p>
-  </div>
-  
-  <div style="background:#3498db; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
-    <h3>Mobile Engagement</h3>
-    <p style="font-size:24px; font-weight:bold;">+60%</p>
-  </div>
-  
-  <div style="background:#e67e22; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
-    <h3>Payment Gateways</h3>
-    <p style="font-size:18px;">Integrated</p>
-  </div>
-  
-  <div style="background:#9b59b6; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
-    <h3>Multilingual Apps</h3>
-    <p style="font-size:18px;">Supported</p>
-  </div>
-  
-  <div style="background:#e74c3c; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
-    <h3>Enterprise Systems</h3>
-    <p style="font-size:18px;">Delivered</p>
-  </div>
-  
-  <div style="background:#16a085; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
-    <h3>Optimized Dashboards</h3>
-    <p style="font-size:18px;">High Performance</p>
-  </div>
-</div>
+<p align="center">
+  <img height="80" src="https://img.shields.io/badge/Page_Load_-30%25-1abc9c?style=flat-square&logo=performance&logoColor=white" />
+  <img height="80" src="https://img.shields.io/badge/Mobile_Engagement_+60%25-3498db?style=flat-square&logo=mobileapp&logoColor=white" />
+  <img height="80" src="https://img.shields.io/badge/Payment_Gateways-Integrated-e67e22?style=flat-square&logo=paypal&logoColor=white" />
+  <img height="80" src="https://img.shields.io/badge/Multilingual_Support-Yes-9b59b6?style=flat-square&logo=translation&logoColor=white" />
+  <img height="80" src="https://img.shields.io/badge/Enterprise_Systems-Delivered-e74c3c?style=flat-square&logo=erp&logoColor=white" />
+  <img height="80" src="https://img.shields.io/badge/Optimized_Dashboards-Performance-16a085?style=flat-square&logo=chart&logoColor=white" />
+</p>
 
 
 ---
