@@ -175,9 +175,11 @@ FullCalendar
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AhmedElminshawy89&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="160em"
+src="https://github-readme-stats.vercel.app/api?username=AhmedElminshawy89&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElminshawy89&layout=compact&theme=tokyonight"/>
+<img height="160em"
+src="https://streak-stats.demolab.com?user=AhmedElminshawy89&theme=tokyonight&hide_border=true"/>
 
 </p>
 
