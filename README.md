@@ -172,7 +172,7 @@ FullCalendar
 ---
 
 # 📈 Key Achievements
-<p align="center"> <img height="160em" src="https://img.shields.io/badge/Page_Load_-30%25-brightgreen?style=for-the-badge&logo=performance"/> <img height="160em" src="https://img.shields.io/badge/Mobile_Engagement_+60%25-blue?style=for-the-badge&logo=mobileapp"/> <img height="160em" src="https://img.shields.io/badge/Payment_Gateways-Integrated-orange?style=for-the-badge&logo=paypal"/> <img height="160em" src="https://img.shields.io/badge/Multilingual_Apps-Supported-purple?style=for-the-badge&logo=translation"/> <img height="160em" src="https://img.shields.io/badge/Enterprise_Systems-Delivered-red?style=for-the-badge&logo=erp"/> <img height="160em" src="https://img.shields.io/badge/Optimized_Dashboards-Performance-9cf?style=for-the-badge&logo=chart"/> </p>
+<p align="center"> <img height="140em" src="https://img.shields.io/badge/Page_Load_-30%25-brightgreen?style=for-the-badge&logo=performance&logoColor=white"/> <img height="140em" src="https://img.shields.io/badge/Mobile_Engagement_+60%25-blue?style=for-the-badge&logo=mobileapp&logoColor=white"/> <img height="140em" src="https://img.shields.io/badge/Payment_Gateways-Integrated-orange?style=for-the-badge&logo=paypal&logoColor=white"/> <img height="140em" src="https://img.shields.io/badge/Multilingual_Apps-Supported-purple?style=for-the-badge&logo=translation&logoColor=white"/> <img height="140em" src="https://img.shields.io/badge/Enterprise_Systems-Delivered-red?style=for-the-badge&logo=erp&logoColor=white"/> <img height="140em" src="https://img.shields.io/badge/Optimized_Dashboards-Performance-9cf?style=for-the-badge&logo=chart&logoColor=white"/> </p>
 
 
 ---
