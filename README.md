@@ -210,7 +210,7 @@ GPA: **3.5 / 4.0**
 https://portfolio-beta-gold-77.vercel.app/
 
 💼 LinkedIn  
-http://linkedin.com/in/ahmed-elminshawy-71b438268
+https://www.linkedin.com/in/ahmed-e-71b438268
 
 🐙 GitHub  
 https://github.com/AhmedElminshawy89
