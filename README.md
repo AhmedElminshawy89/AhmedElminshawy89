@@ -173,7 +173,37 @@ FullCalendar
 
 # 📈 Key Achievements
 
-<p align="center"> <img height="120em" src="https://img.shields.io/badge/Page_Load_-30%25-brightgreen?style=for-the-badge&logo=performance&logoColor=white"/> <img height="120em" src="https://img.shields.io/badge/Mobile_Engagement_+60%25-blue?style=for-the-badge&logo=mobileapp&logoColor=white"/> <img height="120em" src="https://img.shields.io/badge/Payment_Gateways-Integrated-orange?style=for-the-badge&logo=paypal&logoColor=white"/> <img height="120em" src="https://img.shields.io/badge/Multilingual_Apps-Supported-purple?style=for-the-badge&logo=translation&logoColor=white"/> <img height="120em" src="https://img.shields.io/badge/Enterprise_Systems-Delivered-red?style=for-the-badge&logo=erp&logoColor=white"/> <img height="120em" src="https://img.shields.io/badge/Optimized_Dashboards-Performance-9cf?style=for-the-badge&logo=chart&logoColor=white"/> </p>
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
+  <div style="background:#1abc9c; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+    <h3>Page Load</h3>
+    <p style="font-size:24px; font-weight:bold;">-30%</p>
+  </div>
+  
+  <div style="background:#3498db; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+    <h3>Mobile Engagement</h3>
+    <p style="font-size:24px; font-weight:bold;">+60%</p>
+  </div>
+  
+  <div style="background:#e67e22; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+    <h3>Payment Gateways</h3>
+    <p style="font-size:18px;">Integrated</p>
+  </div>
+  
+  <div style="background:#9b59b6; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+    <h3>Multilingual Apps</h3>
+    <p style="font-size:18px;">Supported</p>
+  </div>
+  
+  <div style="background:#e74c3c; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+    <h3>Enterprise Systems</h3>
+    <p style="font-size:18px;">Delivered</p>
+  </div>
+  
+  <div style="background:#16a085; color:white; padding:20px; border-radius:12px; width:180px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+    <h3>Optimized Dashboards</h3>
+    <p style="font-size:18px;">High Performance</p>
+  </div>
+</div>
 
 
 ---
