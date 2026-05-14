@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-🚀 Middle Frontend Engineer with **2.5+ years of proven experience** building **scalable, high-performance enterprise platforms** using **React.js & Next.js**.  
+🚀 Middle Frontend Engineer with **3+ years of proven experience** building **scalable, high-performance enterprise platforms** using **React.js & Next.js**.  
 
 🔹 **Specialized in:**  
 - ERP Systems & Financial Platforms  
